@@ -1,0 +1,38 @@
+history
+    1  ./run_frontend.sh 
+    2  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install -y nodejs
+    3  cd frontend/
+    4  frontend/ run rm -rf node_modules and start ./run_frontend.sh
+    5  cd ..
+    6  frontend/ run rm -rf node_modules and start ./run_frontend.sh
+    7  ./frontend/ run rm -rf node_modules and start ./run_frontend.sh
+    8  cd frontend/
+    9  cd ..
+   10  ./run_frontend.sh 
+   11  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+   12  source ~/.nvm/nvm.sh
+   13  nvm install 20
+   14  node --version        # should print v20.x
+   15  rm -rf frontend/node_modules
+   16  ./run_frontend.sh
+   17  ls
+   18  mv run_frontend.sh old_run_frontend.sh
+   19  ls
+   20  cp /home/vm/Downloads/run_frontend.sh .
+   21  ls
+   22  chmod 777 run_frontend.sh 
+   23  ./run_frontend.sh 
+   24  apt install -y nodejs
+   25  ./run_frontend.sh 
+   26  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+   27  ./run_frontend.sh 
+   28  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+   29  apt install -y nodejs
+   30  ./run_frontend.sh 
+   31  node --version
+   32  nvm install 20
+   33  apt install curl
+   34  ./run_frontend.sh 
+   35  history
+root@VM:/home/vm/Desktop/GPON-Backhaul-Solution--main/gpon-fault-poc# 
+
